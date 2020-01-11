@@ -1,5 +1,5 @@
 {% set name = "kservice" %}
-{% set version = "5.65.0" %}
+{% set version = "5.66.0" %}
 {% set major_minor = ".".join(version.split(".")[:2]) %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://download.kde.org/stable/frameworks/{{ major_minor }}/kservice-{{ version }}.tar.xz
-  sha256: 663ca1539929e9d1188de3732fc8d1353bc5714b434fdf2fa37c4769e4b26fa3
+  sha256: f1174576f6e3e562d7de65494efc2c1c3ac569c656b8301ffbe34576ea623a6a
 
 build:
   number: 0
