@@ -5,7 +5,7 @@ Home: https://api.kde.org/frameworks/kservice/html/index.html
 
 Package license: GPL-v2
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Plugin framework for desktop services
 
